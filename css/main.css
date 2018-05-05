@@ -38,11 +38,13 @@ body {
     width: 100%;
   }
   
+  /*  
   #logo {
     text-align: center;
     margin: 0;
   }
-  
+  */
+
   h1 {
     font-family: 'Changa-One', sans-serif;
     margin: 15px 0;
@@ -53,11 +55,17 @@ body {
   
   h2 {
     margin: -5px 0 0;
-    font-size: 0.75em;
+    font-size: 1.50em;
     font-weight: normal;
   }
   
-  
+  .initials {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0 0 0;
+    width: 10%
+  }
   
   /*********************
   NAVIGATION
@@ -195,7 +203,7 @@ body {
   }
   
   h1, h2 {
-    color: #fff;
+    color: #599168;
   }
   
   /* nav background on mobile */
