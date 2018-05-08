@@ -85,6 +85,7 @@ body {
   
   nav li {
     display: inline-block;
+    padding: 5px 0;
   }
   
   nav a {
@@ -145,6 +146,39 @@ body {
     max-width: 150px;
     margin: 0 auto 30px;
     border-radius: 100%;
+  }
+  
+
+  /*********************
+  PAGE MY WRITING
+  *********************/
+  
+  #my-writing-gallery {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  #my-writing-gallery li {
+    float: left;
+    width: 45%;
+    margin: 2.5%;
+    background-color: #f5f5f5;
+    color: #bdc3c7;
+  }
+  
+  #my-writing-gallery li a h3 {
+    margin: 0;
+    padding: 2%;
+    text-align: center;
+  }
+
+  #my-writing-gallery li a p {
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+    font-size: 0.75em;
+    color: #bdc3c7;
   }
   
   
