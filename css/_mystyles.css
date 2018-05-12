@@ -245,14 +245,14 @@ HERO
   
   
   a {
-    color: #6ab47b;
+    color: #6ed3cf;
   }
   
   
   /* green header */
   header {
-    background: #6ab47b;
-    border-color: #599168;
+    background: #6ed3cf;
+    border-color: #9068be;
   }
   
   h1, h2 {
@@ -261,7 +261,7 @@ HERO
   
   /* nav background on mobile */
   nav {
-    background-color: #599168;
+    background-color: #9068be;
   }
   
   /* nav link */
@@ -271,7 +271,7 @@ HERO
   
   /* nav link selected */
   nav a.selected, nav a:hover {
-    color: #32673f;
+    color: #9068be;
   }
   
 
