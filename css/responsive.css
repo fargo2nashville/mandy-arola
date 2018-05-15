@@ -47,6 +47,8 @@
   
     #my-writing-gallery li {
         width: 28.3333%;
+        max-width: 300px;
+        min-width: 200px;
       }
     
       #my-writing gallery li:nth-child(4n) {
@@ -122,6 +124,7 @@
   
     #my-writing-gallery li {
         width: 28.3333%;
+        max-width: 300px;
       }
     
       #my-writing-gallery li:nth-child(4n) {

@@ -174,13 +174,16 @@ body {
   *********************/
   
   #my-writing-gallery {
-    margin: 0;
-    padding: 0;
+    /*margin: 0;
+    padding: 0;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     list-style: none;
   }
   
   #my-writing-gallery li {
-    float: left;
+    justify-content: center;
     width: 45%;
     margin: 2.5%;
     background-color: #f5f5f5;
@@ -201,6 +204,11 @@ body {
     color: #bdc3c7;
   }
   
+  #NSS {
+    width: 95%;
+    display: flex;
+    margin: 2.5%;
+  }
   
   /*********************
   PAGE CONTACT
