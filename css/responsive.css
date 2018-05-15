@@ -17,7 +17,8 @@
     /*********************
     HEADER
     *********************/
-   
+
+
     .initials {
       display: block;
       margin-left: auto;
@@ -168,7 +169,6 @@
     nav {
       background: none;
       font-size: 1.125em;
-      margin-right: 5%;
       text-align: center;
       display: flex;
       justify-content: center;
