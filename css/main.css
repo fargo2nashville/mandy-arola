@@ -117,6 +117,33 @@ body {
     padding: 15px 10px;
   }
   
+
+  /*********************
+  SUB NAVIGATION
+  *********************/
+  
+  #sub-nav {
+    text-align: center;
+    padding: 10px 0;
+
+  }
+  
+  #sub-nav ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+  }
+  
+  #sub-nav li {
+    display: inline-block;
+    padding: 5px 0;
+  }
+  
+  #sub-nav a {
+    font-weight: 800;
+    padding: 15px 10px;
+  }
+
   /*********************
   FOOTER
   *********************/
@@ -289,9 +316,14 @@ body {
     border-bottom: 5px solid #9068be;
     /*margin-bottom: 60px;*/
   }
-  
+
+
   h1, h2 {
     color: #9069be;
+  }
+
+  h3 {
+    color: #6ed3cf;
   }
 
   /* nav link */
@@ -304,4 +336,25 @@ body {
     color: #9068be;
   }
   
+  /* sub nav background*/
+  #sub-nav {
+    background-color: #999;
+  }
+
+  /* sub nav link */
+  #sub-nav a, a:visited {
+    color: #fff;
+  }
   
+  /* nav link selected */
+  #sub-nav a.selected, #sub-nav a:hover {
+    color: #e6273ad5;
+  }
+
+  /*footer {
+    background: /*#e6273ad5 #9069be;
+  }
+  
+  footer p {
+    color: #fff;
+  }*/
