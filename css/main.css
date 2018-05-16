@@ -348,7 +348,7 @@ body {
   
   /* nav link selected */
   #sub-nav a.selected, #sub-nav a:hover {
-    color: #e6273ad5;
+    color: #e6273a; /*d5*/
   }
 
   /*footer {
