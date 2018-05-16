@@ -219,7 +219,11 @@ body {
   /*********************
   PAGE MY WORK
   *********************/
-
+  
+  .canva-embed {
+    margin: auto;
+    max-width: 800px;
+  }
 
   /*********************
   PAGE CONTACT
