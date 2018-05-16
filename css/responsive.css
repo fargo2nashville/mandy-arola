@@ -63,6 +63,10 @@
         max-width: 95%;
       }*/
 
+      #canva div {
+        max-width: 95%;
+      }
+
     /*********************
     PAGE: ABOUT
     *********************/
@@ -138,6 +142,17 @@
         clear: left;
       }
 
+
+    /*********************
+    PAGE: MY WORK
+    *********************/
+
+      #canva div {
+        max-width: 95%;
+      }
+
+
+
     /*********************
     PAGE: ABOUT
     *********************/
@@ -202,5 +217,25 @@
       margin-bottom: 20px;
     }
 
+
+    /*********************
+    PAGE: MY WORK
+    *********************/
+
+    #canva div {
+      max-width: 650px;
+    }
+
+  @media screen and (min-width: 840px) {
+
+    /*********************
+    PAGE: MY WORK
+    *********************/
+
+    #canva div {
+      max-width: 800px;
+    }
+
+  }
 
   }

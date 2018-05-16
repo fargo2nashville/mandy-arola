@@ -219,7 +219,8 @@ body {
   /*********************
   PAGE MY WORK
   *********************/
-  
+
+
   .canva-embed {
     margin: auto;
     max-width: 800px;
@@ -227,6 +228,9 @@ body {
 
   #prototype {
     text-align: center;
+  }
+
+  #prototype iframe {
     max-width: 95%;
   }
 
