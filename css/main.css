@@ -206,28 +206,25 @@ HOME PAGE
     padding-bottom: 10px;
   }
   
-  #my-writing-gallery li a h3 {
+  #my-writing-gallery li h3 {
     margin: 0;
     padding: 2%;
     text-align: center;
   }
 
-  #my-writing-gallery li a p {
+  #my-writing-gallery li p {
     margin: 0;
     padding: 5%;
     text-align: center;
     font-size: 0.75em;
     color: #555;
   }
-  
-  #my-writing-gallery li a button {
-    margin: auto;
-  }
 
   .button {
+    margin: auto;
     display: flex;
     justify-content: center;
-    margin: 20px;
+    /*margin: 20px;*/
     background-color: #9068be;
     border: none;
     color: white;
