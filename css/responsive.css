@@ -138,7 +138,6 @@
     #my-writing-gallery li {
         width: 28.3333%;
         max-width: 300px;
-        margin-left: 0px;
       }
     
       #my-writing-gallery li:nth-child(4n) {
