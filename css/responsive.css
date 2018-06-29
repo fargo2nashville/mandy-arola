@@ -71,7 +71,11 @@
     PAGE: ABOUT
     *********************/
   
-
+    .about-photo-banner {
+      display: block;
+      max-width: 85%;
+      margin: 0 auto 30px;
+    }
 
     /*********************
     PAGE: HOME
@@ -159,6 +163,11 @@
     PAGE: ABOUT
     *********************/
   
+    .about-photo-banner {
+      display: block;
+      max-width: 85%;
+      margin: 0 auto 30px;
+    }
 
 
     /*********************
