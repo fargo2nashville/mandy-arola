@@ -7,6 +7,10 @@ ul {
   padding: 0;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
   }
@@ -50,6 +54,7 @@ body {
       margin-left: 15%;
       margin-right: 15%;
     }
+    
     
 
   /*********************
@@ -275,7 +280,7 @@ HOME PAGE
   PAGE CONTACT
   *********************/
   
-  .contact-info {
+  /*.contact-info {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -300,7 +305,7 @@ HOME PAGE
   }
   
   .contact-info li.twitter a {
-    background-image: url('../img/twitter.png')
+    background-image: url('../img/twitter.png')*/
   }
   
 
