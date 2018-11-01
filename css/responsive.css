@@ -51,7 +51,7 @@
         min-width: 200px;
       }
     
-      #my-writing gallery li:nth-child(4n) {
+      #my-writing-gallery li:nth-child(4n) {
         clear: left;
       }
 
@@ -104,6 +104,21 @@
         margin-left: 30px;
       }*/
 }
+
+
+  /*********************
+  PAGE: NSS BANNERS
+  *********************/
+  
+    #tall-image li {
+      width: 28.3333%;
+      max-width: 300px;
+      min-width: 200px;
+    }
+  
+    #tall-image li:nth-child(4n) {
+      clear: left;
+    }
 
 
 @media screen and (min-width: 480px) {
@@ -203,6 +218,20 @@
       }*/
 }
   
+    /*********************
+    PAGE: CONFERENCE BANNERS
+    *********************/
+  
+    #tall-banners li {
+      width: 28.3333%;
+      max-width: 300px;
+    }
+  
+    #tall-banners li:nth-child(4n) {
+      clear: left;
+    }
+
+
   @media screen and (min-width: 660px) {
   
     /*********************
