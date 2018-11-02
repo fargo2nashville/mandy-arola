@@ -419,7 +419,7 @@ HOME PAGE
   
   /* sub nav background*/
   #sub-nav {
-    background-color: #999;
+    background-color: #666;
   }
 
   /* sub nav link */
@@ -429,7 +429,7 @@ HOME PAGE
   
   /* nav link selected */
   #sub-nav a.selected, #sub-nav a:hover {
-    color: #e6273a; /*d5*/
+    color: #6ed3cf; /*d5*/
   }
 
   /*footer {
